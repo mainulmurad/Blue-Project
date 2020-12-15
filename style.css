@@ -179,12 +179,12 @@ font-family:sans-serif;
 /*contact start*/
 .contact{
 	padding: 22px 0 10px;
-	background-color:black;
+	background-color:#040811;
 }
 .common{
 	float: left;
 	width: 28%;
-	padding: 40px 2.6% o;
+	padding: 40px 2.6% 0;
 }
 .c_top{
 overflow: hidden;
@@ -289,7 +289,7 @@ font-family:sans-serif;
 /*footer start*/
 footer{
 	padding: 8px 0 0;
-	background-color: #1D1D21;
+	background-color:#121B2C;
 }
 
 .f_menu{
